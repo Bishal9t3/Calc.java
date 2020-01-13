@@ -1,3 +1,5 @@
+//A simple Calculater program written in Java Languge to test the functionality of GitHub
+
 //done by Jyothi
 import java.util.Scanner;
 class Calc{
