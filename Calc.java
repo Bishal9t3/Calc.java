@@ -49,3 +49,10 @@ class Calc{
             
     }
 }
+
+
+
+//Authors of the program
+//Jyoti
+//Bishal
+//Dikyashi
