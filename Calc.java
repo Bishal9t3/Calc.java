@@ -9,7 +9,14 @@ class Calc{
            
            System.out.println("Enter Your Choice : ");
            System.out.println("1. Addition");
-            System.out.println("2. Subtraction");
+           System.out.println("2. Subtraction");
+            
+            // done by dikyashi
+           System.out.println("3.Multiplication");
+           System.out.println("4.Division");
+           
+           //End of dikyashi
+            
            
             int select=in.nextInt();
             int output=0;
@@ -19,6 +26,14 @@ class Calc{
                       break;
                 case 2 :output=first-second;
                       break;
+                  // Done by dikyashi
+                case 3 :output = first * second;
+                       break;
+                case 4 : output = first/second;
+                        break
+                  //end of dikyashi
+                
+        
          }
             System.out.println(" ");
             System.out.println("Answer is " + output);
