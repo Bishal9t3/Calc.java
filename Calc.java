@@ -17,6 +17,10 @@ class Calc{
            
            //End of dikyashi
             
+            //done by Bishal
+            System.out.println("5.Modeless");
+            //done by Bishal
+            
            
             int select=in.nextInt();
             int output=0;
@@ -30,9 +34,14 @@ class Calc{
                 case 3 :output = first * second;
                        break;
                 case 4 : output = first/second;
-                        break
+                        break;
                   //end of dikyashi
-                
+                    
+                //done by Bishal
+                case 5 : output = first%second;
+                    break;
+                default: System.out.println("𝕾𝖊𝖑𝖊𝖈𝖙𝖎𝖔𝖓 𝕴𝖓𝖈𝖔𝖗𝖗𝖊𝖈𝖙. 𝕻𝖗𝖔𝖌𝖗𝖆𝖒 𝖎𝖘 𝕰𝖝𝖎𝖙𝖎𝖓𝖌");
+                    //done by Bishal
         
          }
             System.out.println(" ");
