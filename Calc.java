@@ -1,3 +1,4 @@
+//done by Jyothi
 import java.util.Scanner;
 class Calc{
     public static void main(String[] args) {
@@ -10,6 +11,7 @@ class Calc{
            System.out.println("Enter Your Choice : ");
            System.out.println("1. Addition");
            System.out.println("2. Subtraction");
+           // End of Jyothi
             
             // done by dikyashi
            System.out.println("3.Multiplication");
@@ -44,8 +46,10 @@ class Calc{
                     //done by Bishal
         
          }
+         //done by Jyothi
             System.out.println(" ");
             System.out.println("Answer is " + output);
+            //End of jyothi
             
     }
 }
