@@ -1,4 +1,5 @@
 //A simple Calculater program written in Java Languge to test the functionality of GitHub
+//Test to see creation and merging of branches to the master file.
 
 //done by Jyothi
 import java.util.Scanner;
